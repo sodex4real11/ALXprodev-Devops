@@ -1,0 +1,2 @@
+# Project Overview & Summary
+This project is a practical deep dive into Advanced Shell Scripting, focusing on automating interactions with a RESTful API (the Pokémon API). It progresses from simple, single API calls to complex operations involving parallel processing, robust error handling, and data summarization. The goal is to simulate real-world DevOps and Data Engineering tasks where automation, reliability, and efficiency are paramount.
